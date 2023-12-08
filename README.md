@@ -14,6 +14,7 @@ challenge in C. Each solution will be in 1.c and 2.c, and read from stdin.
 | 5   | 00:37:19 | 4305   | 75    | 00:56:17 | 1254   | 79    |
 | 6*  | 01:06:17 | 13083  | 30    | 01:12:19 | 12484  | 34    |
 | 7*  | 01:27:56 | 9455   | 105   | 01:46:44 | 7495   | 139   |
+| 8*  | 00:30:21 | 8027   | 59    | 00:58:27 | 4586   | 90    |
 
 ## Asterisks
 
@@ -24,3 +25,9 @@ I'm so sad cause this one was so easy too. I could easily have gotten a top 1000
 if I didn't have such a skill issue with the time.
 
 Day 7: Skill issue
+
+Day 8: I realized the way to solve this one was not brute force, and used an LCM
+calculator online to find the correct answer (for speed). 08/2.c does not produce 
+an answer, but it does produce the necessary components for an answer.
+
+
