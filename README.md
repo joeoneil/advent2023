@@ -24,6 +24,8 @@ challenge in C. Each solution will be in 1.c and 2.c, and read from stdin.
 | 15  | 00:04:58 | 1212   | 25    | 00:37:30 | 3083   | 72    |
 | 16  | 01:06:56 | 4030   | 120   | 01:15:15 | 3589   | 137   |
 | 17  | 02:40:16 | 3300   | 163   | 05:04:36 | 4512   | 165   |
+| 18* | 00:22:06 | 922    | 110   | 06:26:33 | 6375   | 137   |
+| 19  | 01:27:22 | 5081   | 150   | 03:14:06 | 3715   | 213   |
 
 ## Asterisks
 
@@ -39,4 +41,4 @@ Day 8: I realized the way to solve this one was not brute force, and used an LCM
 calculator online to find the correct answer (for speed). 08/2.c does not produce 
 an answer, but it does produce the necessary components for an answer.
 
-
+Day 18: This one was a pyrrhic victory. 
